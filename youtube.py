@@ -1,6 +1,3 @@
-'''import tkinter as tk
-from tkinter import ttk, filedialog, messagebox
-'''
 from pytube import YouTube
 import os
 import sys
